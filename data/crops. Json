@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tomato",
+    "water_need": 2,
+    "growth_days": 7,
+    "pest_risk": 0.3,
+    "yield_per_plant": 5
+  },
+  {
+    "name": "Millet",
+    "water_need": 1,
+    "growth_days": 5,
+    "pest_risk": 0.1,
+    "yield_per_plant": 3
+  }
+]
